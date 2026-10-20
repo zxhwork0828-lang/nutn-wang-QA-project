@@ -1,0 +1,8 @@
+# Streamlit Community Cloud runtime dependencies. For local development: uv sync
+streamlit==1.65.0
+huggingface-hub>=1.0,<3
+httpx>=0.28.1,<1
+numpy>=2.2.6,<3
+onnxruntime>=1.23,<2
+pglast>=7,<8
+tokenizers>=0.22,<1
